@@ -9,4 +9,4 @@ Non-responsive, using sprites .
 
 Drawings by Clara Wernicke (my friend).
 
-Her site  will be found at http://claridad-yoga.librebits.info
+Her site  will be found at http://claridad-yoga.librebits.info   .
